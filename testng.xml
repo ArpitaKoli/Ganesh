@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.tso.testcases.Test1"/>
       <class name="com.tso.testcases.LoginpageTest"/>
     </classes>
   </test> <!-- Test -->
